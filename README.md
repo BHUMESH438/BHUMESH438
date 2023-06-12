@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="bhumesh" /> </p>
 
-- 🌱 I’m currently learning **Front-End-Web-Dev**
+- 🌱 Always have the greed for knowledge **** 
 
 - 💬 Ask me about **react**
 
