@@ -5,7 +5,7 @@
 
 - 🌱 Always have the greed for knowledge **** 
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **web dev**
 
 - 📫 How to reach me **bhumesh1719@gmail.com**
 
